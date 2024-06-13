@@ -98,7 +98,7 @@ a{
     position: relative; 
 }
 .button11:before {
-    content: 'R';
+    content: '';
     position: absolute;
     top: 50%;
     left: 10px;
@@ -117,7 +117,7 @@ a{
 }
 
 .button12:before {
-    content: '@';
+    content: '';
     position: absolute;
     top: 50%;
     left: 8px;
